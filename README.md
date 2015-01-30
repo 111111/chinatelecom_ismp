@@ -1,1 +1,2 @@
 # chinatelecom_ismp
+这是一个中国电信webservice接口客户端源码，使用cxf框架
